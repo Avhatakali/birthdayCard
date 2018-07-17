@@ -1,17 +1,18 @@
 page-home {
-     
-}
-
+        
 .body{
-
-   // background-image: url("../../assets/imgs/be.jpg"); 
-    background-image: no-repeat;
-    background-attachment: fixed;
-    background: rgb(95, 67, 67);
-}
-
-h1{
-        padding: 15%;
         text-align: center;
-        color:white;
+        background-image: url("../../assets/imgs/b_day.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        // background-size: auto; 
+        // width: 80%;
+    }
+    
+    h1{
+            padding: 15%;
+            text-align: center;
+            color: white;
+            font-size: 54px;
+    }
 }
